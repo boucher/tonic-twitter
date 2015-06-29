@@ -1,0 +1,14 @@
+{
+  "name": "tonic-twitter",
+  "version": "1.2.5",
+  "description": "A wrapper for using the twitter package in Tonic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "twitter": "1.2.5"
+  }
+}
